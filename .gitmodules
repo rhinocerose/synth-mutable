@@ -1,0 +1,36 @@
+[submodule "eurorack-mutable"]
+	path = eurorack-mutable
+	url = https://github.com/rhinocerose/eurorack-mutable
+[submodule "eurorack-mutable-calibrators"]
+	path = eurorack-mutable-calibrators
+	url = https://github.com/rhinocerose/eurorack-mutable-calibrators
+[submodule "eurorack-mutable-dev-environment"]
+	path = eurorack-mutable-dev-environment
+	url = https://github.com/rhinocerose/eurorack-mutable-dev-environment
+[submodule "synth-mutable-ambika"]
+	path = synth-mutable-ambika
+	url = https://github.com/rhinocerose/synth-mutable-ambika
+[submodule "synth-mutable-anookum"]
+	path = synth-mutable-anookum
+	url = https://github.com/rhinocerose/synth-mutable-anookum
+[submodule "synth-mutable-anushri"]
+	path = synth-mutable-anushri
+	url = https://github.com/rhinocerose/synth-mutable-anushri
+[submodule "synth-mutable-midipal"]
+	path = synth-mutable-midipal
+	url = https://github.com/rhinocerose/synth-mutable-midipal
+[submodule "synth-mutable-module_tester"]
+	path = synth-mutable-module_tester
+	url = https://github.com/rhinocerose/synth-mutable-module_tester
+[submodule "synth-mutable-plaits-editor"]
+	path = synth-mutable-plaits-editor
+	url = https://github.com/rhinocerose/synth-mutable-plaits-editor
+[submodule "synth-mutable-shruthi-1"]
+	path = synth-mutable-shruthi-1
+	url = https://github.com/rhinocerose/synth-mutable-shruthi-1
+[submodule "synth-mutable-stm-audio-bootloader"]
+	path = synth-mutable-stm-audio-bootloader
+	url = https://github.com/rhinocerose/synth-mutable-stm-audio-bootloader
+[submodule "synth-mutable-stmlib"]
+	path = synth-mutable-stmlib
+	url = https://github.com/rhinocerose/synth-mutable-stmlib
