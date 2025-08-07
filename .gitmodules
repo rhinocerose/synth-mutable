@@ -34,3 +34,15 @@
 [submodule "synth-mutable-stmlib"]
 	path = synth-mutable-stmlib
 	url = https://github.com/rhinocerose/synth-mutable-stmlib
+[submodule "eurorack-mutable-uRings_SE"]
+	path = eurorack-mutable-uRings_SE
+	url = https://github.com/rhinocerose/eurorack-mutable-uRings_SE
+[submodule "eurorack-mutable-uBraids_SE"]
+	path = eurorack-mutable-uBraids_SE
+	url = https://github.com/rhinocerose/eurorack-mutable-uBraids_SE
+[submodule "eurorack-mutable-uPlaits_SE"]
+	path = eurorack-mutable-uPlaits_SE
+	url = https://github.com/rhinocerose/eurorack-mutable-uPlaits_SE
+[submodule "eurorack-mutable-uClouds_SE"]
+	path = eurorack-mutable-uClouds_SE
+	url = https://github.com/rhinocerose/eurorack-mutable-uClouds_SE
