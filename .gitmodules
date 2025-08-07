@@ -46,3 +46,9 @@
 [submodule "eurorack-mutable-uClouds_SE"]
 	path = eurorack-mutable-uClouds_SE
 	url = https://github.com/rhinocerose/eurorack-mutable-uClouds_SE
+[submodule "eurorack-mutable-Wavelet"]
+	path = eurorack-mutable-Wavelet
+	url = https://github.com/rhinocerose/eurorack-mutable-Wavelet
+[submodule "eurorack-mutable-Apex"]
+	path = eurorack-mutable-Apex
+	url = https://github.com/rhinocerose/eurorack-mutable-Apex
