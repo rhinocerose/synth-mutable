@@ -49,3 +49,6 @@
 [submodule "synth-mutable-shruthi-1"]
 	path = synth-mutable-shruthi-1
 	url = https://github.com/rhinocerose/synth-mutable-shruthi-1
+[submodule "synth-mutable-ambika"]
+	path = synth-mutable-ambika
+	url = https://github.com/rhinocerose/synth-mutable-ambika
