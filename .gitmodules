@@ -40,3 +40,15 @@
 [submodule "eurorack-mutable-Apex"]
 	path = eurorack-mutable-Apex
 	url = https://github.com/rhinocerose/eurorack-mutable-Apex
+[submodule "synth-mutable-ambika"]
+	path = synth-mutable-ambika
+	url = https://github.com/rhinocerose/synth-mutable-ambika
+[submodule "synth-mutable-midipal"]
+	path = synth-mutable-midipal
+	url = https://github.com/rhinocerose/synth-mutable-midipal
+[submodule "synth-mutable-module_tester"]
+	path = synth-mutable-module_tester
+	url = https://github.com/rhinocerose/synth-mutable-module_tester
+[submodule "synth-mutable-shruthi-1"]
+	path = synth-mutable-shruthi-1
+	url = https://github.com/rhinocerose/synth-mutable-shruthi-1
