@@ -1,42 +1,42 @@
 [submodule "eurorack-mutable"]
 	path = eurorack-mutable
-	url = https://github.com/rhinocerose/eurorack-mutable
+	url = git@git-rhino:rhinocerose/eurorack-mutable
 [submodule "eurorack-mutable-calibrators"]
 	path = eurorack-mutable-calibrators
-	url = https://github.com/rhinocerose/eurorack-mutable-calibrators
+	url = git@git-rhino:rhinocerose/eurorack-mutable-calibrators
 [submodule "eurorack-mutable-dev-environment"]
 	path = eurorack-mutable-dev-environment
-	url = https://github.com/rhinocerose/eurorack-mutable-dev-environment
+	url = git@git-rhino:rhinocerose/eurorack-mutable-dev-environment
 [submodule "synth-mutable-anookum"]
 	path = synth-mutable-anookum
-	url = https://github.com/rhinocerose/synth-mutable-anookum
+	url = git@git-rhino:rhinocerose/synth-mutable-anookum
 [submodule "synth-mutable-anushri"]
 	path = synth-mutable-anushri
-	url = https://github.com/rhinocerose/synth-mutable-anushri
+	url = git@git-rhino:rhinocerose/synth-mutable-anushri
 [submodule "synth-mutable-plaits-editor"]
 	path = synth-mutable-plaits-editor
-	url = https://github.com/rhinocerose/synth-mutable-plaits-editor
+	url = git@git-rhino:rhinocerose/synth-mutable-plaits-editor
 [submodule "synth-mutable-stm-audio-bootloader"]
 	path = synth-mutable-stm-audio-bootloader
-	url = https://github.com/rhinocerose/synth-mutable-stm-audio-bootloader
+	url = git@git-rhino:rhinocerose/synth-mutable-stm-audio-bootloader
 [submodule "synth-mutable-stmlib"]
 	path = synth-mutable-stmlib
-	url = https://github.com/rhinocerose/synth-mutable-stmlib
+	url = git@git-rhino:rhinocerose/synth-mutable-stmlib
 [submodule "eurorack-mutable-uRings_SE"]
 	path = eurorack-mutable-uRings_SE
-	url = https://github.com/rhinocerose/eurorack-mutable-uRings_SE
+	url = git@git-rhino:rhinocerose/eurorack-mutable-uRings_SE
 [submodule "eurorack-mutable-uBraids_SE"]
 	path = eurorack-mutable-uBraids_SE
-	url = https://github.com/rhinocerose/eurorack-mutable-uBraids_SE
+	url = git@git-rhino:rhinocerose/eurorack-mutable-uBraids_SE
 [submodule "eurorack-mutable-uPlaits_SE"]
 	path = eurorack-mutable-uPlaits_SE
-	url = https://github.com/rhinocerose/eurorack-mutable-uPlaits_SE
+	url = git@git-rhino:rhinocerose/eurorack-mutable-uPlaits_SE
 [submodule "eurorack-mutable-uClouds_SE"]
 	path = eurorack-mutable-uClouds_SE
-	url = https://github.com/rhinocerose/eurorack-mutable-uClouds_SE
+	url = git@git-rhino:rhinocerose/eurorack-mutable-uClouds_SE
 [submodule "eurorack-mutable-Wavelet"]
 	path = eurorack-mutable-Wavelet
-	url = https://github.com/rhinocerose/eurorack-mutable-Wavelet
+	url = git@git-rhino:rhinocerose/eurorack-mutable-Wavelet
 [submodule "eurorack-mutable-Apex"]
 	path = eurorack-mutable-Apex
-	url = https://github.com/rhinocerose/eurorack-mutable-Apex
+	url = git@git-rhino:rhinocerose/eurorack-mutable-Apex
