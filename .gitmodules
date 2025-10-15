@@ -70,3 +70,6 @@
 	path = synth-mutable-module_tester
 	url = git@git-rhino:rhinocerose/synth-mutable-module_tester
 	branch = main
+[submodule "eurorack-mutablevar-Mutated-Mutables"]
+	path = eurorack-mutablevar-Mutated-Mutables
+	url = git@git-rhino:rhinocerose/eurorack-mutablevar-Mutated-Mutables
